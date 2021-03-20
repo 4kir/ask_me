@@ -1,33 +1,24 @@
-# Приложение "Ask Me"
+# README
 
-Учебное приложение, созданное по примеру сервиса - [AskFM](https://ask.fm/), позволяющее задавать вопросы зарегистрированным пользователям и получать ответы на них. 
+This README would normally document whatever steps are necessary to get the
+application up and running.
 
-Примеры работы приложения:
-https://kyzyl-asker.herokuapp.com/
+Things you may want to cover:
 
-## Техническая информация
-* Ruby version 2.7.0
-* Rails 6.0.3
+* Ruby version
 
-#### В проекте использовались:
-[ReCAPTCHA](https://ru.wikipedia.org/wiki/ReCAPTCHA) - для защиты от интернет-ботов.
+* System dependencies
 
-## Локальный запуск приложения
-1. Склонируйте приложение
-2. Находясь в папке приложения выполните команду в терминале 
-```
-bundle && bundle exec rails db:migrate
-```
-3. Выполните команду 
-```
-yarn
-```
-4. Запустить в терминале 
-```
-bin/webpack-dev-server
-```
-и во втором окне терминала 
-```
-bundle exec rails s
-```
-5. Открыть в браузере http://localhost:3000/
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
