@@ -16,7 +16,7 @@ https://kyzyl-asker.herokuapp.com/
 1. Склонируйте приложение
 2. Находясь в папке приложения выполните команду в терминале 
 ```
-bundle** && bundle exec rails db:migrate
+bundle && bundle exec rails db:migrate
 ```
 3. Выполните команду 
 ```
